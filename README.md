@@ -9,9 +9,9 @@ There are mainly two three requirements which needed to be followed if you want 
 
 Now aif you want to run this notebook in your local computer then do the following.
 
-```
+
 1. Create a folder
-```
+
 
 2. After that create the anaconda environment using the below command inside this main folder
 ```
@@ -30,4 +30,4 @@ touch requirements.txt
 pip install -r requirements.txt
 ```
 
-5. NNow follow the starting instructions just simply to run that notebook file 
+5. Now follow the starting instructions just simply to run that notebook file 
